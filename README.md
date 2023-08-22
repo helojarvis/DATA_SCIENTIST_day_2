@@ -1,1 +1,1 @@
-# DATA_SCIENTIST_cource progress
+# DATA_SCIENTIST_course progress
