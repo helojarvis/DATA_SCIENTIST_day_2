@@ -1,1 +1,1 @@
-# DATA_SCIENTIST_day_2
+# DATA_SCIENTIST_cource progress
